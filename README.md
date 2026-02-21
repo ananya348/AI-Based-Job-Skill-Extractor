@@ -14,6 +14,16 @@
 
 ---
 
+## 🌐 Live Application
+
+<p align="center">
+  <a href="https://ai-based-job-skill-extractor-o67wm8xtkw89fcl4vscfnq.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20Live%20App-Click%20Here-success?style=for-the-badge">
+  </a>
+</p>
+
+---
+
 ## 🚀 Overview
 
 The **AI Skill Intelligence System** automatically extracts relevant technical skills from job descriptions using:
@@ -46,6 +56,8 @@ This system is designed for intelligent hiring automation, HR analytics, and tal
 - Tokenizer: Keras Tokenizer
 - Label Encoder: MultiLabelBinarizer
 - Prediction Threshold: `0.30`
+
+---
 
 ## 🎥 Demo Videos
 
