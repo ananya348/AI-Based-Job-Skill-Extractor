@@ -1,11 +1,5 @@
 # 🧠 AI Skill Intelligence System
-## 🎥 Demo Videos
 
-### 🏢 Non-IT Background
-<video src="Non_SDE.mp4" controls width="700"></video>
-
-### 💻 Software Engineering Background
-<video src="SDE.mp4" controls width="700"></video>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" />
   <img src="https://img.shields.io/badge/Framework-Streamlit-red.svg" />
