@@ -52,7 +52,7 @@ FIXED_THRESHOLD = 0.30
 ## 🎥 Demo Videos
 
 ### 🏢 Non-IT Background
-[▶️ Watch Demo](./Non_SDE.mp4)
+<video src="Non_SDE.mp4" controls width="700"></video>
 
 ### 💻 Software Engineering Background
-[▶️ Watch Demo](./SDE.mp4)
+<video src="SDE.mp4" controls width="700"></video>
