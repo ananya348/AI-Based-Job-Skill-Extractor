@@ -49,3 +49,11 @@ This system is designed for intelligent hiring automation, HR analytics, and tal
 
 ```python
 FIXED_THRESHOLD = 0.30
+
+## 🎥 Demo Videos
+
+### 🏢 Non-IT Background Prediction
+https://github.com/ananya348/AI-Based-Job-Skill-Extractor/releases/download/v1.0/nonsde.mp4
+
+### 💻 Software Engineering Background Prediction
+https://github.com/ananya348/AI-Based-Job-Skill-Extractor/releases/download/v1.0/sde.mp4
