@@ -49,3 +49,10 @@ This system is designed for intelligent hiring automation, HR analytics, and tal
 
 ```python
 FIXED_THRESHOLD = 0.30
+## 🎥 Demo Videos
+
+### 🏢 Non-IT Background
+[▶️ Watch Demo](./Non_SDE.mp4)
+
+### 💻 Software Engineering Background
+[▶️ Watch Demo](./SDE.mp4)
