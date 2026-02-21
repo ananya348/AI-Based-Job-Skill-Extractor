@@ -47,9 +47,6 @@ This system is designed for intelligent hiring automation, HR analytics, and tal
 - Label Encoder: MultiLabelBinarizer
 - Prediction Threshold: `0.30`
 
-```python
-FIXED_THRESHOLD = 0.30
-
 ## 🎥 Demo Videos
 
 ### 🏢 Non-IT Background Prediction
