@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Framework-Streamlit-red.svg" />
   <img src="https://img.shields.io/badge/Deep%20Learning-BiLSTM-orange.svg" />
   <img src="https://img.shields.io/badge/Multi--Label-Classification-success.svg" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" />
 </p>
 
 <p align="center">
